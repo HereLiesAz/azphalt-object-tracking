@@ -1,0 +1,9 @@
+{
+    "name":  "@azphalt/vegas.tracking.object",
+    "version":  "1.0.0",
+    "description":  "Tracks an object and adjusts size dynamically based on distance.",
+    "private":  false,
+    "scripts":  {
+                    "build":  "node build.js"
+                }
+}
