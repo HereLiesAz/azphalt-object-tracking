@@ -1,5 +1,5 @@
 {
-  "id": "vegas.tracking.object",
+  "id": "com.hereliesaz.azphalt.object-tracking",
   "version": "1.0.0",
   "name": "Motion Tracking - Object Follow",
   "description": "Tracks an object and adjusts size dynamically based on distance.",
