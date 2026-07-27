@@ -1,11 +1,13 @@
 {
+  "azphalt": "0.1",
   "id": "com.hereliesaz.azphalt.object-tracking",
-  "version": "1.0.0",
   "name": "Motion Tracking - Object Follow",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "MIT",
+  "compat": ">=0.1",
   "description": "Tracks an object and adjusts size dynamically based on distance.",
-  "files": {
-    "assets/preset.json": "sha256-placeholder"
-  },
+  "author": "HereLiesAz",
   "assets": [
     {
       "type": "motion",
